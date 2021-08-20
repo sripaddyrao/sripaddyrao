@@ -1,6 +1,6 @@
 - 👋 Hi Everybody, I am Sripad Rao.
 - 👀 I’m a creative person and a Machine Learning and AI enthusiast.
-- 🌱 I’m currently pursuing my Post graduation in Machine Learning and Artificial Intelligence from IIITB.
+- 🌱 I’m currently pursuing my Post Graduation in Machine Learning and Artificial Intelligence from IIITB.
 - 📫 You can contact me via sripaddyrao@gmail.com
 
 <!---
